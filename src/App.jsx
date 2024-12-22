@@ -21,7 +21,7 @@ const App = () => {
     "src/assets/5_fox.jpg",
     "src/assets/3_fox.avif",
     "src/assets/4_fox.jpg",
-    "src/assets/6_fox.jpg",
+    "https://www.freepik.com/free-vector/cute-cool-cat-wearing-glasses-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated_23104955.htm#fromView=search&page=1&position=33&uuid=c9151dc3-1fc2-4887-a535-422cae6aff8d&new_detail=true",
   ];
 
   const handleClick = () => {
