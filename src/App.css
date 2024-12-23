@@ -62,7 +62,7 @@
   }
 
   .button-container {
-    width: 90%;
+    width: 100%;
     word-wrap: break-word;
   }
 
@@ -75,7 +75,7 @@
   }
 
   .cartoon-image {
-    width: 200px;
+    width: 150px;
   }
 }
 
