@@ -5,7 +5,7 @@ const RiddleCard = () => {
   return (
     <>
 
-    <img className='cartoonImg' src='public/assets/7_cat.avif'/>
+    <img className='cartoonImg' src='/assets/7_cat.avif'/>
     <div className='riddle-card'>
       <div className='headerName'>
         <span>◀️▶️</span>
