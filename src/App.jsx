@@ -6,11 +6,11 @@ const App = () => {
   const [clickCount, setClickCount] = useState(0);
 
   const messages = [
-    "Hi 🙋‍♂️",
+    "Hi K 🙋‍♂️",
     "Curious to Know me?😁",
-    "Chal Ek koda solve kr",
-    "Almost there!",
-    "Hi",
+    "चल एक कोडे सोडव...",
+    "आलाच आहे...!",
+    "Just ajun एक...",
     "",
     
   ];
