@@ -16,12 +16,12 @@ const App = () => {
   ];
 
   const images = [
-    "src/assets/1_fox.jpg", // Replace with actual image paths
-    "src/assets/2_fox.avif",
-    "src/assets/5_fox.jpg",
-    "src/assets/3_fox.avif",
-    "src/assets/4_fox.jpg",
-    "src/assets/7_cat.avif",
+    "/assets/1_fox.jpg", // Replace with actual image paths
+    "/assets/2_fox.avif",
+    "/assets/5_fox.jpg",
+    "/assets/3_fox.avif",
+    "/assets/4_fox.jpg",
+    "/assets/7_cat.avif",
   ];
 
   const handleClick = () => {
