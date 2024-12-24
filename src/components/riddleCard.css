@@ -25,6 +25,12 @@
 .caution{
   font-size: xx-small;
   width: 100%;
+  color: white;
+}
+.btnAns{
+  background-color: white;
+  color: black;
+  margin-top: 10px;
 }
   
   @media (max-width: 768px) {
