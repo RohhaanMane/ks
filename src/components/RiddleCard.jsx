@@ -26,6 +26,8 @@ const RiddleCard = () => {
     <div className='caution'>caution: Kindly do not take it personally🙏 Secret Santa pe gussa nahi karte...🫠</div>
     <br />
     <br />
+    <br />
+    <br />
     <hr />
     <div className='caution'>Hey! there is another gift for you, on the same page tommorow at 10 pm,be patient! 😊</div>
     </>
