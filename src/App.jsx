@@ -6,11 +6,11 @@ const App = () => {
   const [clickCount, setClickCount] = useState(0);
 
   const messages = [
-    "Hi, I'm Secret santa.🎅",
+    "Hi Cinderella🧚‍♀️",
+    "Looking gorgeous today",
     "Curious to Know me?😁",
     "चल एक कोडे सोडव...",
-    "आलाच आहे...!",
-    "Just ajun एक...",
+    "aur ek bar click kr...",
     "",
     
   ];
