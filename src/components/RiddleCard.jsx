@@ -29,7 +29,7 @@ const RiddleCard = () => {
     <br />
     <br />
     <hr />
-    <div className='caution'>Hey! there is another gift for you, on the same page tommorow at 10 pm,be patient! 😊</div>
+    <div className='caution'>Hey! sry yar udya krto, I'm exhauted today...</div>
     </>
   )
 }
