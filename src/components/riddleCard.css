@@ -25,12 +25,16 @@
 .caution{
   font-size: xx-small;
   width: 100%;
-  color: white;
+  color: black;
+  margin-top: 10px;
 }
 .btnAns{
   background-color: white;
   color: black;
   margin-top: 10px;
+}
+.ssImg{
+  width: 500px;
 }
   
   @media (max-width: 768px) {
@@ -41,6 +45,10 @@
       border-radius: 5px;
       border-style: none;
       margin: 20px;
+    }
+
+    .ssImg{
+      width: 300px;
     }
 
     .headerName{

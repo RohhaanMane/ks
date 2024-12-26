@@ -9,7 +9,7 @@ const App = () => {
     "Hi Cinderella🧚‍♀️",
     "Looking gorgeous today",
     "Curious to Know me?😁",
-    "चल एक कोडे सोडव...",
+    "Go to my application..",
     "aur ek bar click kr...",
     "",
     

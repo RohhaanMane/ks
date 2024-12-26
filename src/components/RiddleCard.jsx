@@ -4,32 +4,17 @@ import './riddleCard.css'
 const RiddleCard = () => {
   return (
     <>
-
-    <img className='cartoonImg' src='/assets/7_cat.avif'/>
+    <img className='ssImg' src="assets/chatimg.png" alt="" />
     <div className='riddle-card'>
       <div className='headerName'>
-        <h4>हे घे सोडव..</h4>
+        <h4>This is my chatting application that I have built</h4>
       </div>
-      <p>
-      तालाब में हूँ,,
-      </p>
-      <p>तालाब के बाहर भी,...</p>
-      <p>सब मछलियाँ अपनी हैं, ,</p>
-      <p>पर लगूं थोड़ा-थोड़ा Nemo भी।...</p>
-      <p>Nemo की तरह clumsy नहीं हूँ,,</p>
-      <p>पर हूँ थोड़ा calm।...</p>
-      <p>When people talk to me,</p>
-      <p>They feel warm।...</p>
-      <p>क्या मुझे ढूंढ पाओगे, </p>
-      <p>before the storm?...</p>
+      
+      <a href="https://chit-chat-comet.onrender.com/"> https://chit-chat-comet.onrender.com/</a>
+    <div className='caution'>Go and register...You'll see the secret Santa</div>
+    <div className='caution'>Open website in browser mode if you are using mobile...</div>
     </div>
-    <div className='caution'>caution: Kindly do not take it personally🙏 Secret Santa pe gussa nahi karte...🫠</div>
-    <br />
-    <br />
-    <br />
-    <br />
-    <hr />
-    <div className='caution'>Hey! sry yar udya krto, I'm exhauted today...</div>
+   
     </>
   )
 }
